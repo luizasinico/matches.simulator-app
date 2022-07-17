@@ -68,7 +68,7 @@
             android:contentDescription="@string/cd_away_team"/>
 
         <com.google.android.material.textview.MaterialTextView
-            android:id="@+id/ivAwayTeamName"
+            android:id="@+id/tvAwayTeamName"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="@dimen/margin_default"
@@ -78,7 +78,7 @@
             tools:text="Away team"/>
 
         <com.google.android.material.textview.MaterialTextView
-            android:id="@+id/ivAwayTeamScore"
+            android:id="@+id/tvAwayTeamScore"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginEnd="@dimen/margin_default"
